@@ -1,0 +1,7 @@
+target 'newLayOut' do
+ pod 'Texture'
+# pod 'Yoga'
+# pod 'YogaKit'
+ pod 'IGListKit'
+ pod 'YYKit'
+end
